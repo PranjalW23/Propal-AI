@@ -1,0 +1,10 @@
+[
+  {
+    "id": "demo",
+    "username": "Demo User",
+    "email": "demo@propalai.com",
+    "password": "demo123",
+    "phone": "+91 9876543210",
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  }
+]
